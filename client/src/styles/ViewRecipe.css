@@ -1,0 +1,9 @@
+.rating-stars {
+    display: block;
+    padding-top: 20px;
+}
+
+.view-recipe-text {
+    font-size: 15px;
+    color: dimgrey;
+}

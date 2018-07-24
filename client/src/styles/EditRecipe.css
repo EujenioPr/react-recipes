@@ -1,0 +1,15 @@
+.editrecipe-input {
+    margin-bottom: 10px;
+}
+.editrecipe-input input {
+    display: block;
+    width: 350px !important;
+}
+
+.editrecipe-ta {
+
+}
+
+.rating-star-wrapper {
+    margin: 20px 0;
+}

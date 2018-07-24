@@ -1,0 +1,30 @@
+.recipe-button-set {
+    /* background-color: rgb(255, 255, 255); */
+    width: 130px;
+    position: absolute;
+    top: 20px;
+    right: 16px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.circular.ui.basic.button.icon {
+    /* background-color: rgb(238, 238, 238) !important; */
+}
+
+.circular.ui.basic.button.icon i {
+    /* text-align: center !important; */
+    margin-left: -2px !important;
+}
+
+.recipe-wrapper {
+    margin-bottom: 4px !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+
+.circular.ui.basic.button.icon.recipe-button-dark {
+    background: #272727 !important;
+    color: rgb(185, 185, 185) !important;
+}

@@ -1,0 +1,11 @@
+export const FETCH_RECIPES = 'FETCH_RECIPES';
+export const SET_RECIPES = 'SET_RECIPES';
+
+export const FETCH_ONE_RECIPE = 'FETCH_ONE_RECIPE';
+export const SET_ONE_RECIPE = 'SET_ONE_RECIPE';
+
+export const CREATE_RECIPE = 'CREATE_RECIPE';
+
+export const EDIT_ONE_RECIPE = 'EDIT_ONE_RECIPE';
+
+export const DELETE_ONE_RECIPE = 'DELETE_ONE_RECIPE';

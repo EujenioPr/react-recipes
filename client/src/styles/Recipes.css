@@ -1,0 +1,35 @@
+.allrecipes-button-recipes {
+    margin-right: -2px !important;
+    height: 35px !important;
+    position: relative !important;
+    top: -1px !important;
+}
+
+.allrecipes-search {
+    width: 35% !important;
+}
+
+.allrecipes-input {
+    display: block;
+    width: 100% !important;
+    height: 35px !important;
+    border-radius: 0px !important;
+    /* border: 1px solid #2185D0 !important; */
+    border-right: 1px solid transparent !important;
+    position: relative !important;
+    top: 0px !important;
+}
+
+.allrecipes-button {
+    border-radius: 0px !important;
+    height: 35px !important;
+}
+
+.allrecipes-select {
+    height: 35px !important;
+    border-radius: 0 4px 4px 0 !important;
+    margin-left: -4px !important;
+    /* border: 1px solid #21BA45 !important; */
+    position: relative !important;
+    top: -1px !important;
+}
