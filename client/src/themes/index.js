@@ -9,14 +9,7 @@ export const light = {
 
 export const dark = {
     backgroundColor: '#333',
-    color: '#fff',
-    bgColorDarker: (bool) => {
-        if(bool) {
-            return { backgroundColor: '#545454' };
-        } else {
-            return;
-        }
-    }
+    color: '#fff'
 }
 
 export default ThemeContext;
